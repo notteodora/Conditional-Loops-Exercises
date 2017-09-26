@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\08. Calories Counter\bin\Debug\_08.Calories_Counter.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\08. Calories Counter\bin\Debug\_08.Calories_Counter.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\08. Calories Counter\bin\Debug\_08.Calories_Counter.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\08. Calories Counter\obj\Debug\_08.Calories_Counter.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\08. Calories Counter\obj\Debug\_08.Calories_Counter.pdb

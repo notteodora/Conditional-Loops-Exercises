@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\12. Test Numbers\bin\Debug\_12.Test_Numbers.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\12. Test Numbers\bin\Debug\_12.Test_Numbers.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\12. Test Numbers\obj\Debug\12. Test Numbers.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\12. Test Numbers\obj\Debug\_12.Test_Numbers.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\12. Test Numbers\obj\Debug\_12.Test_Numbers.pdb

@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\09. Count the Integers\bin\Debug\_09.Count_the_Integers.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\09. Count the Integers\bin\Debug\_09.Count_the_Integers.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\09. Count the Integers\bin\Debug\_09.Count_the_Integers.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\09. Count the Integers\obj\Debug\09. Count the Integers.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\09. Count the Integers\obj\Debug\_09.Count_the_Integers.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\09. Count the Integers\obj\Debug\_09.Count_the_Integers.pdb

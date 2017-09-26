@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\11. 5 Different Numbers\bin\Debug\11. 5 Different Numbers.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\11. 5 Different Numbers\bin\Debug\11. 5 Different Numbers.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\11. 5 Different Numbers\bin\Debug\11. 5 Different Numbers.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\11. 5 Different Numbers\obj\Debug\11. 5 Different Numbers.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\11. 5 Different Numbers\obj\Debug\11. 5 Different Numbers.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\11. 5 Different Numbers\obj\Debug\11. 5 Different Numbers.pdb
