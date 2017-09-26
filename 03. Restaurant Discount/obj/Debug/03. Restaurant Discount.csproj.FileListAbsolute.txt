@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\03. Restaurant Discount\bin\Debug\_03.Restaurant_Discount.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\03. Restaurant Discount\bin\Debug\_03.Restaurant_Discount.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\03. Restaurant Discount\bin\Debug\_03.Restaurant_Discount.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\03. Restaurant Discount\obj\Debug\_03.Restaurant_Discount.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\03. Restaurant Discount\obj\Debug\_03.Restaurant_Discount.pdb

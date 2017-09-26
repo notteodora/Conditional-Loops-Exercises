@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\05. Word in Plural\bin\Debug\_05.Word_in_Plural.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\05. Word in Plural\bin\Debug\_05.Word_in_Plural.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\05. Word in Plural\bin\Debug\_05.Word_in_Plural.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\05. Word in Plural\obj\Debug\05. Word in Plural.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\05. Word in Plural\obj\Debug\_05.Word_in_Plural.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\05. Word in Plural\obj\Debug\_05.Word_in_Plural.pdb

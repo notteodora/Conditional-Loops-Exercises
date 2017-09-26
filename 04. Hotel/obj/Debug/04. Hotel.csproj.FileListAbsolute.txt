@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\04. Hotel\bin\Debug\_04.Hotel.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\04. Hotel\obj\Debug\04. Hotel.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\04. Hotel\obj\Debug\_04.Hotel.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\04. Hotel\obj\Debug\_04.Hotel.pdb

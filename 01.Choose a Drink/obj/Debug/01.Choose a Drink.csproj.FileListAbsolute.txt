@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\01.Choose a Drink\bin\Debug\01.Choose a Drink.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\01.Choose a Drink\bin\Debug\01.Choose a Drink.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\01.Choose a Drink\bin\Debug\01.Choose a Drink.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\01.Choose a Drink\obj\Debug\01.Choose a Drink.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\01.Choose a Drink\obj\Debug\01.Choose a Drink.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Conditional  Loops - Exercises\01.Choose a Drink\obj\Debug\01.Choose a Drink.pdb
